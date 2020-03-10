@@ -10,7 +10,7 @@ vi rssPodcastsDown.sh
 ```
 
 ## rssPodcastsDown.sh:
-
+This is the main bash script file.
 
 ## rssPodcasts.txt:
 Sample output file when I downloaded 103 *.mp3 files from https://newrustacean.com/
