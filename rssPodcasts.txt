@@ -1,0 +1,103 @@
+000: e000: Hello, world! : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e000.mp3
+001: e001: Document All the Things : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e001.mp3
+002: e002: Something borrowed, something&#x2026; moved? : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e002.mp3
+003: e003: No. more. nulls. : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e003.mp3
+004: e004: Functionalized : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e004.mp3
+005: e005: Allocate it where? : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e005.mp3
+006: e006: Modularize this! : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e006.mp3
+007: Bonus 1: Polyglot Programming Promises and Perils : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/bonus/1.mp3
+008: Bonus 2: Legacy Code : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/bonus/2.mp3
+009: e007: Testify : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e007.mp3
+010: e008: Just like something else : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e008.mp3
+011: e009: Composing a Rustic tune : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e009.mp3
+012: e010: Macros rule! : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e010.mp3
+013: Bonus 3: Building as a community : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/bonus/3.mp3
+014: Interview 1::Part 1 &#x2013; Sean Griffin : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/1/part_1.mp3
+015: Interview 1::Part 2 &#x2013; Sean Griffin : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/1/part_2.mp3
+016: e011: Once Upon a Type : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e011.mp3
+017: e012: I'm not familiar with that expression : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e012.mp3
+018: e013: Staying alive : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e013.mp3
+019: Bonus 4: We can have nice things : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/bonus/4.mp3
+020: e014: Stringing things along : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e014.mp3
+021: Bonus 5: Better than open-source contributions : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/bonus/5.mp3
+022: News 1: One year and counting : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/1.mp3
+023: e015: Not dumb pointers : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e015.mp3
+024: Interview 2::Part 1 &#x2013; Raph Levien : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/2/part_1.mp3
+025: Interview 2::Part 2 &#x2013; Raph Levien : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/2/part_2.mp3
+026: e016: RefCells and code smells : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e016.mp3
+027: e017: Point me where I need to go : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e017.mp3
+028: Bonus 6: It doesn&#x2018;t have to be sexy : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/bonus/6.mp3
+029: Bonus 7: Katas&#x2014;or: learning by doing : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/bonus/7.mp3
+030: Interview 3 &#x2013; Carol (Nichols || Goulding) : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/3.mp3
+031: Meta 1 &#x2013; Slowing Down : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/meta/1.mp3
+032: News 2: Let's talk roadmap! : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/2.mp3
+033: CYSK: quick-xml : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/cysk/1.mp3
+034: e018: `Borrow`, `AsRef`, `Deref`: my head hurts now : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e018.mp3
+035: CYSK: clap : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/cysk/2.mp3
+036: e019: Let's `Clone` a `Cow` : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e019.mp3
+037: Bonus 8: Giving back (by teaching) : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/bonus/8.mp3
+038: e020: Putting code in its place : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e020.mp3
+039: CYSK: RLS : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/cysk/3.mp3
+040: Interview 4 &#x2013; Jonathan Turner: Part 1 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/4/part_1.mp3
+041: Interview 4 &#x2013; Jonathan Turner: Part 2 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/4/part_2.mp3
+042: Interview 4 &#x2013; Jonathan Turner: Part 3 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/4/part_3.mp3
+043: CYSK: Rocket : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/cysk/rocket.mp3
+044: News 3: Increasing Rust's Reach : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/3.mp3
+045: e021: Keeping your types under cover : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e021.mp3
+046: Bonus 9: Open source is mostly just normal people : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/bonus/9.mp3
+047: News: Rust 1.20 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/rust_1_20.mp3
+048: CYSK: Rayon : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/cysk/rayon.mp3
+049: Meta 2: Two milestones : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/meta/2.mp3
+050: RBR 2017: Colin Dean : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/colin_dean.mp3
+051: RBR 2017: Anthony Deschamps : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/anthony_deschamps.mp3
+052: RBR 2017: Arun Kulsheshthra : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/arun_kulshreshthra.mp3
+053: RBR 2017: Pete Lyons : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/pete_lyons.mp3
+054: RBR 2017: Jess Saxeter : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/jess_saxeter.mp3
+055: News: Rust 1.21 and 1.22 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/rust_1_21_1_22.mp3
+056: RBR 2017: Tom Kriezkowski : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/tom_kriezkowski.mp3
+057: RBR 2017: Thomas Gideon : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/thomas_gideon.mp3
+058: RBR 2017: Esty Thomas : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/esty_thomas.mp3
+059: RBR 2017: Holden Marcsisin : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/holden_marcsisin.mp3
+060: RBR 2017: Ben Striegel : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/ben_striegel.mp3
+061: RBR 2017: Matthias Endler : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/matthias_endler.mp3
+062: RBR 2017: Parry Wilcox : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/parry_wilcox.mp3
+063: RBR 2017: Andrew Hobden : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/andrew_hobden.mp3
+064: RBR 2017: Ben Beckwith : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/ben_beckwith.mp3
+065: RBR 2017: Katie Nolan : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/rbr/katie_nolan.mp3
+066: Increasing Rust's Reach: Anna Liao : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/irr/anna_liao.mp3
+067: Increasing Rust's Reach: Lee Baillie : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/irr/lee_baillie.mp3
+068: Increasing Rust's Reach: Matt Gathu : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/irr/matt_gathu.mp3
+069: News: Rust 1.23 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/rust_1_23.mp3
+070: Interview &#x2013; Diesel 1.0, with Sean Griffin &#x2013; Part 1 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/diesel_1_0/part_1.mp3
+071: Interview &#x2013; Diesel 1.0, with Sean Griffin &#x2013; Part 2 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/diesel_1_0/part_2.mp3
+072: e023: Send and Sync : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e022.mp3
+073: CYSK: Serde : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/cysk/serde.mp3
+074: News: Rust 1.24 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/rust_1_24.mp3
+075: Bonus 10: &#x201C;Becoming a Contributor&#x201D; : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/bonus/10.mp3
+076: News: Rust 1.25 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/rust_1_25.mp3
+077: e023: Traits Deep Dive, Part I : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e023.mp3
+078: News: Rust 1.26 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/rust_1_26.mp3
+079: CYSK: The wasm tools : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/cysk/wasm.mp3
+080: e024: Traits Deep Dive, Part II : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e024.mp3
+081: News: Rust 1.27 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/rust_1_27.mp3
+082: e025: Traits Deep Dive, Part III : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e025.mp3
+083: e026: Functional Programming Ideas : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e026.mp3
+084: News: Rust 1.28 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/rust_1_28.mp3
+085: Bonus 11: Burnout : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/bonus/burnout.mp3
+086: Bonus 12: Translating Between Languages : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/bonus/translating_between_languages.mp3
+087: News: Rust 1.29 and 1.30 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/rust_1_29_1_30.mp3
+088: e027: Trust Me; I Promise! : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e027.mp3
+089: Interview: Integer32 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/interview/integer32.mp3
+090: News: Rust 1.31 and the 2018 Edition, Part I : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/rust_1_31/part_1.mp3
+091: News: Rust 1.31 and the 2018 Edition, Part II : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/rust_1_31/part_2.mp3
+092: News: Rust 1.32 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/rust_1_32.mp3
+093: e028: Meet My Associates : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e028.mp3
+094: Bonus 13: I Still Make Silly Mistakes : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/bonus/13.mp3
+095: Bonus 14: How the Sausage Gets Made : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/bonus/14.mp3
+096: e029: I&#x2019;m Out to C : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e029.mp3
+097: News: Rust 1.33 and 1.34 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/rust_1_33_1_34.mp3
+098: e030: Can You See Me Now? : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e030.mp3
+099: e031: FFI Deep Dive : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/e031.mp3
+100: CYSK: bindgen and cbindgen : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/cysk/bindgen_cbindgen.mp3
+101: News: Rust 1.35 : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/news/rust_1_35.mp3
+102: Meta 3: Happy Coding : https://www.podtrac.com/pts/redirect.mp3/cdn.newrustacean.com/file/newrustacean/meta/3.mp3
