@@ -5,8 +5,7 @@ rss_podcast is podcasts(*.mp3) downloader. Original code can be found in https:/
 ## Usage:
 
 ```bash
-vi rssPodcastsDown.sh
-./rssPodcastsDown.sh | tee rssPodcasts.txt
+./rssPodcastsDown.sh (podcasts RSS xml file URL) (optional: filename prefix) | tee rssPodcasts.txt
 ```
 
 ## rssPodcastsDown.sh:

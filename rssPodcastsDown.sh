@@ -1,11 +1,14 @@
 #!/usr/bin/env bash
 # Original code can be found at https://mim.mbirgin.com/?c=posts&id=115
 #
-# Replace with your podcast feed.
-rss="https://newrustacean.com/feed.xml"
+# # Replace with your podcast feed.
+# rss="https://newrustacean.com/feed.xml"
+rss=$1
 
 raw=$(curl -s "$rss" | sed 's|xmlns=".*"||g')
 count=$(echo $raw | xmllint --xpath "count(//rss/channel/item)" -)
+
+# Start from oldest one. This can be reversed.
 for (( c=$count; c>=1; c-- ))
 do
   #echo $raw | xmllint --xpath "/descendant::item[$c]" -
@@ -14,8 +17,11 @@ do
   seq=$(printf "%03d" $((count-c)))
   echo "$seq: $title : $murl"
 
-  # Use default filenames.
-  # curl -O --silent --location $murl
-  # Use appropriate filename if you don't prefer.
-  curl --silent --location $murl > rust$seq.mp3
+  if [ -z "$2" ]; then
+    # Use default filenames.
+    curl -O --silent --location $murl
+  else
+    # Use short filenames. mp3 filenames tend to be long.
+    curl --silent --location $murl > $2$seq.mp3
+  fi
 done
